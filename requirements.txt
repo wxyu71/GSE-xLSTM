@@ -1,0 +1,7 @@
+numpy
+matplotlib
+einops
+scikit-learn
+torchmetrics
+wandb
+xlstm==1.0.3
