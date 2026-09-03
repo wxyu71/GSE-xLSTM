@@ -2,6 +2,22 @@
 
 **GSE-xLSTM: Spatiotemporal Decoupled Multivariate Time Series Forecasting with sLSTM and Grouped Spatial MLP**
 
+Authors: Wenxuan Yu, Yujuan Xu, Liming Jiang (corresponding author), and Shaomiao Chen
+School of Computer Science and Engineering, Hunan University of Science and Technology, Xiangtan, China
+
+This work has been accepted at PRICAI 2026.
+
+## Citation
+
+```bibtex
+@inproceedings{yu2026gse-xlstm,
+  title     = {GSE-xLSTM: Spatiotemporal Decoupled Multivariate Time Series Forecasting with sLSTM and Grouped Spatial MLP},
+  author    = {Yu, Wenxuan and Xu, Yujuan and Jiang, Liming and Chen, Shaomiao},
+  booktitle = {PRICAI 2026},
+  year      = {2026}
+}
+```
+
 ## Overview
 
 GSE-xLSTM is a grouped spatial-enhanced xLSTM based on a spatiotemporal decoupled dual-branch architecture for multivariate time series forecasting.
